@@ -1,0 +1,20 @@
+	{ //Guyana's
+		"name": "People's Militia",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 34,
+		"cost": 190,
+		"requiredTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "Mechanized Infantry",
+		"uniqueTo": "Guyana",
+    "uniques": ["Can build [Land] improvements on tiles <when not at war>"],
+		"promotions": ["Woodsman"],
+		"civilopediaText": [
+			{
+				"text": "The Guyana People's Militia was first established in 1976 by Forbes Burnham. The militia combined the pragmatic goals of national defense, internal security, and economic development with a political goal of uprooting the psychological effects of colonialism and building a new socialist society. This Militia, constituted a Corps of citizens who volunteered to be trained separately in every Region of Guyana."
+			}
+		],
+		"attackSound": "shot",
+  }
