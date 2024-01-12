@@ -16,7 +16,7 @@
 		
 	  	"introduction": "I am Julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
 		  "declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
-  		"a ttacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
+  		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
 	  	"afterPeace": "Although we are at peace, I still want to see you defeated.",
   		"defeated": "You are just another nation, this victory will not change that, because I actually gave up.",
 
@@ -38,13 +38,5 @@
   		"cities": ["Georgetown","Linden","Anna Regina","New Amsterdam",,"Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington","Triumph","Vreed en Hoop",
                             "Corriverton","Parika","Ituni","Rose Hall","Rosignol","Victoria","Plaisance","Kwakwani","Skeldon",
                             "Beteverwagting","Mahaicony","Lusignan","Cane Grove","Charity"],
-	  	"civilopediaText": [
-		  	{"text": ""},
-		  	{"text": ""},
-		  	{"separator": true},
-		  	{"text": "Tips to play:"},
-		  	{"text": ""},
-		  	{"text": ""}
-		  ]
      }
 ]
